@@ -14,7 +14,7 @@ git clone https://github.com/<Priyanshu-Chand>/<Calculator-app>.git
 2. Open `index.html` in your browser.
 
 ## Preview
-![Calculator UI](screenshot.png)
+![Calculator UI](Calculator.png)
 
 ## License
 MIT
