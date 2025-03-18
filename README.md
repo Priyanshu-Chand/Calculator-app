@@ -2,6 +2,9 @@
 
 A simple web-based calculator built using **HTML, CSS, and JavaScript**.
 
+## Check Demo
+🔗 [Click here to use the Calculator] (https://priyanshu-chand.github.io/Calculator-app/)
+
 ## Features
 - Basic arithmetic operations (+, -, ×, ÷)
 - Responsive UI
